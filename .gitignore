@@ -1,0 +1,28 @@
+# =========================
+
+**/.exercism/
+
+# =========================
+# Kotlin / Gradle / IntelliJ
+# =========================
+
+# Output di compilazione
+**/build/
+**/out/
+
+# Cartelle Gradle locali (cache)
+**/.gradle/
+
+# File di configurazione IDE (IntelliJ/Android Studio)
+**/.idea/
+*.iml
+
+# Log e file temporanei
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+
+
